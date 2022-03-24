@@ -1,0 +1,9 @@
+.idea/
+.next/
+.vscode/
+
+*.db
+*.log
+
+lib/
+node_modules/
